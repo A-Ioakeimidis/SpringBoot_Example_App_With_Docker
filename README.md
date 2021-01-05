@@ -1,4 +1,4 @@
-# Microservices_SpringBoot_SpringCloud_Docker
+# SpringBoot_Example_App_With_Docker
 
 # Prerequisites
 Docker is installed and it is running.
